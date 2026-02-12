@@ -1,11 +1,9 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./src/*"],
-      "@/pages/*": ["src/components/pages/*"],
-      "@/components/*": ["src/components/*"],
-      "@/assets/*": ["./src/assets/*"],
-      "@/routes/*": ["./src/routes/*"]
+      "@/*": ["./app/*"],
+      "@/components/*": ["./app/components/*"],
+      "@/assets/*": ["./app/assets/*"]
     }
   },
   "include": ["**/*.ts", "**/*.vue"]

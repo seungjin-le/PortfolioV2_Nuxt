@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>
-    <h1>Login</h1>
+  <div class="size-full bg-[blue]">
+    <a href="/">Home</a>
   </div>
 </template>
